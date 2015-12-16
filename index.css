@@ -1,0 +1,22 @@
+body {
+  background: url('images/carol_belt.jpg') repeat;
+  font-family: Helvetica, arial;
+}
+#section {
+  width: 500px;
+  padding: 30px;
+  margin: 100px auto;
+  border: 1px black solid;
+  background: rgba(0,0,0,0.5);
+  border-radius: 20px;
+}
+#generate {
+  background-color: #55acee;
+  font-size: 18px;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px #000;
+  color: white;
+
+}
